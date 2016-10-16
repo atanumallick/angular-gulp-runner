@@ -1,0 +1,20 @@
+{
+  "name": "gulp-runner",
+  "version": "1.0.0",
+  "description": "This is a simple app to test different features of gulp task runner.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanu Mallick",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
