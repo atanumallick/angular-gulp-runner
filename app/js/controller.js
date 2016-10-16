@@ -10,5 +10,5 @@ angular.module('gulpRunner.controller', ['gulpRunner.service'])
 }])
 
 .controller('landingCtrl', ['$scope', function($scope){
-	$scope.name = "Atanu";
+	$scope.name = "World";
 }]);
